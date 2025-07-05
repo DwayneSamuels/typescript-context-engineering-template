@@ -1,0 +1,40 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm:*)",
+      "Bash(yarn:*)",
+      "Bash(pnpm:*)",
+      "Bash(npx:*)",
+      "Bash(node:*)",
+      "Bash(tsc:*)",
+      "Bash(ts-node:*)",
+      "Bash(eslint:*)",
+      "Bash(prettier:*)",
+      "Bash(jest:*)",
+      "Bash(vitest:*)",
+      "Bash(grep:*)",
+      "Bash(ls:*)",
+      "Bash(find:*)",
+      "Bash(mv:*)",
+      "Bash(mkdir:*)",
+      "Bash(tree:*)",
+      "Bash(touch:*)",
+      "Bash(cat:*)",
+      "Bash(cp:*)",
+      "Bash(rm:*)",
+      "WebFetch(domain:docs.anthropic.com)",
+      "WebFetch(domain:nodejs.org)",
+      "WebFetch(domain:typescriptlang.org)",
+      "WebFetch(domain:npmjs.com)",
+      "WebFetch(domain:expressjs.com)",
+      "WebFetch(domain:jestjs.io)",
+      "WebFetch(domain:eslint.org)",
+      "WebFetch(domain:prettier.io)",
+      "WebFetch(domain:github.com)",
+      "Bash(ls:*)",
+      "Bash(git checkout:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": []
+  }
+}
