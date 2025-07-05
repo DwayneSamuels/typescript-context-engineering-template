@@ -4,6 +4,16 @@ A comprehensive template for getting started with Context Engineering - the disc
 
 > **Context Engineering is 10x better than prompt engineering and 100x better than vibe coding.**
 
+## 🙏 Attribution
+
+This TypeScript template is adapted from the original [Context Engineering Intro](https://github.com/coleam00/context-engineering-intro) by [Cole Medin](https://github.com/coleam00). The original Python-based template provided the foundational concepts and workflow that have been adapted here for TypeScript/Node.js development.
+
+**Original Creator:** Cole Medin ([@coleam00](https://github.com/coleam00))  
+**Original Repository:** https://github.com/coleam00/context-engineering-intro  
+**License:** MIT
+
+Special thanks to Cole for pioneering the Context Engineering methodology and creating the comprehensive workflow system that makes AI-assisted development so much more effective.
+
 ## 🚀 Quick Start
 
 ```bash
@@ -325,3 +335,8 @@ examples/
 - [Node.js Documentation](https://nodejs.org/en/docs/)
 - [Express.js Documentation](https://expressjs.com/)
 - [Jest Documentation](https://jestjs.io/docs/getting-started)
+
+## Credits
+
+- **Original Context Engineering Concept:** [Cole Medin](https://github.com/coleam00) - [Context Engineering Intro](https://github.com/coleam00/context-engineering-intro)
+- **TypeScript Adaptation:** Adapted for TypeScript/Node.js development patterns and tooling
