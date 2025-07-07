@@ -18,7 +18,7 @@ Special thanks to Cole for pioneering the Context Engineering methodology and cr
 
 ```bash
 # 1. Clone this template
-git clone https://github.com/your-org/typescript-context-engineering-template.git
+git clone https://github.com/DwayneSamuels/typescript-context-engineering-template.git
 cd typescript-context-engineering-template
 
 # 2. Set up your project rules (optional - template provided)
@@ -335,6 +335,19 @@ examples/
 - [Node.js Documentation](https://nodejs.org/en/docs/)
 - [Express.js Documentation](https://expressjs.com/)
 - [Jest Documentation](https://jestjs.io/docs/getting-started)
+
+## 🌟 Contributing & Community
+
+This template is open source and welcomes contributions! Help make Context Engineering better for everyone:
+
+⭐ **Star this repository** - Help others discover systematic AI development  
+🍴 **Fork and modify** - Adapt it for your tech stack and share improvements  
+📝 **Contribute examples** - Add patterns for frameworks like NestJS, Next.js, or Fastify  
+🐛 **Report issues** - Help us improve the template and documentation  
+💡 **Share your PRPs** - Contribute successful Product Requirements Prompts  
+📖 **Improve docs** - Help make Context Engineering accessible to more developers
+
+**Repository:** https://github.com/DwayneSamuels/typescript-context-engineering-template
 
 ## Credits
 
